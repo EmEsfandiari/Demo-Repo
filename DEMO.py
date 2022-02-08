@@ -7,3 +7,4 @@ y = 13
 z = x + y
 
 print(z)
+print(x)
